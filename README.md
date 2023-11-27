@@ -55,4 +55,4 @@ ORM-E-Commerce-BE is a backend application that providesdatabase creation with t
 ## [GitHub URL](https://github.com/GrassHopper12345/ORM-E-Commerce-BE)
 
 
-## [Walk-Through Video]()
+## [Walk-Through Video](https://drive.google.com/file/d/1xhyooXhScKIoaxVQ-hTbQicQVBiANG6X/view)
